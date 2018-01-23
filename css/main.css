@@ -1,0 +1,42 @@
+#splash {
+    background-image: url(../assets/images/fondo.jpg);
+    padding: 40% 0 80% 0;
+}
+
+#blanco {
+    width: 60%;
+    height: 40%;
+    visibility: visible;
+    z-index: 1;
+    margin-bottom: 70%;
+    margin-left: 15%;
+}
+
+.ciudad {
+    background-image: url("../assets/images/container.jpg");
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#lyfe {
+    width: 60%;
+    height: 40%;
+    visibility: visible;
+    z-index: 10;
+    margin-bottom: 70%;
+    margin-left: 15%;
+}
+
+.btn,
+#login,
+#register{
+    background-color: transparent;
+    border-color: #fff;
+    color: #fff;
+    margin-left: 100%;
+}

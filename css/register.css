@@ -1,0 +1,11 @@
+
+form#phone {
+    width: 60vw;
+    max-width: 100px;
+  }
+
+  .centered{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

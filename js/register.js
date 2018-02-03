@@ -30,7 +30,12 @@ next.on("click", function (event) {
     event.preventDefault();
     makeCode();
     alert('Tu código es: ' + 'LAB-' + code);
-    window.location.href = 'index.html';
+    window.location.href = 'form.html';
 });
 
+var code ;
+function makeCode() {
+  code= makeid();  
+  localStorage.saving = code;
+}
 

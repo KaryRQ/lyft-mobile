@@ -1,0 +1,23 @@
+body{
+    background-image: url(../assets/images/fondo.jpg);
+}
+
+#blanco {
+    width: 60%;
+    height: 40%;
+    margin-top: 42%;
+    margin-left: 20%;
+}
+
+.check{
+    width: 70%;
+    margin-left: 14%;
+    margin-top: 5%;
+}
+
+a{
+color: #EA0B8C;
+  font-size: 2em;
+  padding: 0;
+  text-decoration: none;
+}

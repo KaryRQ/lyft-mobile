@@ -12,5 +12,17 @@ form#number {
 
   .pink{
     background-color: #EA0B8C;
-      color: #fff;
+      color: #fff;      
   }
+
+  #boton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12% 37%;
+  }
+  #A{
+    margin: 8% 4%;
+  }
+
+  
